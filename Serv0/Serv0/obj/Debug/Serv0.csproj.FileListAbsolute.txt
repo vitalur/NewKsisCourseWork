@@ -1,0 +1,24 @@
+c:\users\evg\documents\visual studio 2017\Projects\Serv0\Serv0\bin\Debug\Serv0.exe.config
+c:\users\evg\documents\visual studio 2017\Projects\Serv0\Serv0\bin\Debug\Serv0.exe
+c:\users\evg\documents\visual studio 2017\Projects\Serv0\Serv0\bin\Debug\Serv0.pdb
+c:\users\evg\documents\visual studio 2017\Projects\Serv0\Serv0\obj\Debug\Serv0.csprojResolveAssemblyReference.cache
+c:\users\evg\documents\visual studio 2017\Projects\Serv0\Serv0\obj\Debug\Serv0.exe
+c:\users\evg\documents\visual studio 2017\Projects\Serv0\Serv0\obj\Debug\Serv0.pdb
+G:\Serv0\Serv0\bin\Debug\Serv0.exe.config
+G:\Serv0\Serv0\bin\Debug\Serv0.exe
+G:\Serv0\Serv0\bin\Debug\Serv0.pdb
+G:\Serv0\Serv0\obj\Debug\Serv0.csprojResolveAssemblyReference.cache
+G:\Serv0\Serv0\obj\Debug\Serv0.exe
+G:\Serv0\Serv0\obj\Debug\Serv0.pdb
+H:\Serv0\Serv0\bin\Debug\Serv0.exe.config
+H:\Serv0\Serv0\bin\Debug\Serv0.exe
+H:\Serv0\Serv0\bin\Debug\Serv0.pdb
+H:\Serv0\Serv0\obj\Debug\Serv0.csprojResolveAssemblyReference.cache
+H:\Serv0\Serv0\obj\Debug\Serv0.exe
+H:\Serv0\Serv0\obj\Debug\Serv0.pdb
+E:\Serv0\Serv0\bin\Debug\Serv0.exe.config
+E:\Serv0\Serv0\obj\Debug\Serv0.exe
+E:\Serv0\Serv0\obj\Debug\Serv0.pdb
+E:\Serv0\Serv0\bin\Debug\Serv0.exe
+E:\Serv0\Serv0\bin\Debug\Serv0.pdb
+E:\Serv0\Serv0\obj\Debug\Serv0.csprojResolveAssemblyReference.cache

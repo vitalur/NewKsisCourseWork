@@ -1,0 +1,53 @@
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.Form1.resources
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.EmptyRegistration.resources
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.NotCurrentLogin.resources
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\bin\Debug\Client.exe.config
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.exe
+c:\users\evg\documents\visual studio 2017\Projects\Client\Client\obj\Debug\Client.pdb
+G:\Client\Client\bin\Debug\Client.exe.config
+G:\Client\Client\bin\Debug\Client.exe
+G:\Client\Client\bin\Debug\Client.pdb
+G:\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\Client\Client\obj\Debug\Client.EmptyRegistration.resources
+G:\Client\Client\obj\Debug\Client.Form1.resources
+G:\Client\Client\obj\Debug\Client.NotCurrentLogin.resources
+G:\Client\Client\obj\Debug\Client.Properties.Resources.resources
+G:\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+G:\Client\Client\obj\Debug\Client.exe
+G:\Client\Client\obj\Debug\Client.pdb
+G:\Client\Client\obj\Debug\Client.NotRegistrated.resources
+G:\Client\Client\obj\Debug\Client.Congratulation.resources
+G:\Client\Client\obj\Debug\Client.ServerIsNotStart.resources
+H:\Client\Client\bin\Debug\Client.exe.config
+H:\Client\Client\bin\Debug\Client.exe
+H:\Client\Client\bin\Debug\Client.pdb
+H:\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+H:\Client\Client\obj\Debug\Client.Congratulation.resources
+H:\Client\Client\obj\Debug\Client.EmptyRegistration.resources
+H:\Client\Client\obj\Debug\Client.Form1.resources
+H:\Client\Client\obj\Debug\Client.NotCurrentLogin.resources
+H:\Client\Client\obj\Debug\Client.NotRegistrated.resources
+H:\Client\Client\obj\Debug\Client.Properties.Resources.resources
+H:\Client\Client\obj\Debug\Client.ServerIsNotStart.resources
+H:\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+H:\Client\Client\obj\Debug\Client.exe
+H:\Client\Client\obj\Debug\Client.pdb
+E:\Client\Client\bin\Debug\Client.exe.config
+E:\Client\Client\obj\Debug\Client.exe
+E:\Client\Client\obj\Debug\Client.pdb
+E:\Client\Client\bin\Debug\Client.exe
+E:\Client\Client\bin\Debug\Client.pdb
+E:\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Client\Client\obj\Debug\Client.Congratulation.resources
+E:\Client\Client\obj\Debug\Client.EmptyRegistration.resources
+E:\Client\Client\obj\Debug\Client.Form1.resources
+E:\Client\Client\obj\Debug\Client.NotCurrentLogin.resources
+E:\Client\Client\obj\Debug\Client.NotRegistrated.resources
+E:\Client\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Client\Client\obj\Debug\Client.ServerIsNotStart.resources
+E:\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
